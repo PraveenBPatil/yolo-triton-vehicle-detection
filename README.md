@@ -6,6 +6,10 @@ A Python-based vehicle detection project that uses YOLO, NVIDIA Triton Inference
 
 This project demonstrates an object detection pipeline in which video frames are processed by a YOLO model served through NVIDIA Triton Inference Server. Detection results are passed between processes using Python multiprocessing and saved in MongoDB.
 
+## Vehicle Detection Demo
+
+![Vehicle Detection Demo](vehicle-detection-demo.png)
+
 ## Technologies Used
 
 - **Python** — application logic and video processing
