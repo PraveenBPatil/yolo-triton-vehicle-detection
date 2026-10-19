@@ -1,0 +1,16 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+runs/
+*.mp4
+*.engine
+*.plan
+
+
+.idea/
+*.jpg
+*.pt
+yolo_model_backup/
